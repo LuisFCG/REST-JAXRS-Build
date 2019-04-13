@@ -1,2 +1,1 @@
-#Construir clase Usuario
-#Agregar dependencias jersey
+Construir clase Usuario / Agregar dependencias jersey
