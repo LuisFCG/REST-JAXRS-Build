@@ -1,1 +1,1 @@
-Construir clase Usuario / Agregar dependencias jersey
+Clase Usuario / Dependencias jersey / Clase JerseyConfig / HelloWorkService
